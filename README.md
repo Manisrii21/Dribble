@@ -389,10 +389,11 @@ product.html
 ```
 ## OUTPUT:
 
-![alt text](o2.png)
-![alt text](o3.png)
-![alt text](o4.png)
-![alt text](o5.png)
+![1](https://github.com/user-attachments/assets/dc4d0979-4465-41ce-87cf-55065731249f)
+![2](https://github.com/user-attachments/assets/93fbab11-0c77-4cd6-9d45-48196b8c3f87)
+![3](https://github.com/user-attachments/assets/38993115-1f0b-432c-a76d-5a7a14d4a4ba)
+![Screenshot 2024-11-18 154631](https://github.com/user-attachments/assets/e3dca9ec-340b-4a9a-b414-c97124880666)
+
 
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
