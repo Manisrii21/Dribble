@@ -1,5 +1,5 @@
 # Project Responsive Web Design using Bootstrap
-## Date:10-05-2024
+## Date:18-11-2024
 
 ## AIM:
 To design a responsive website for a Pharmaceutical Company using Bootstrap.
@@ -95,7 +95,7 @@ web.html
 
   <!-- Footer -->
   <footer class="bg-dark text-white text-center py-4 mt-3">
-    <p>&copy; 2024 AN PharmaCompany. All rights reserved. BY NARRA NANDITHA</p>
+    <p>&copy; 2024 AN PharmaCompany. All rights reserved. BY M MANI SRI LATHA</p>
   </footer>
 
   <!-- Bootstrap JS -->
@@ -184,7 +184,7 @@ about.html
   <body background="bg.jpeg" style="background-repeat: no-repeat; background-size: cover;"></body>
   <!-- Footer -->
   <footer class="bg-dark text-white text-center py-4 mt-3">
-    <p>&copy; 2024 AN PharmaCompany. All rights reserved.  BY NARRA NANDITHA</p>
+    <p>&copy; 2024 AN PharmaCompany. All rights reserved.  BY M MANI SRI LATHA</p>
   </footer>
 
   <!-- Bootstrap JS -->
@@ -287,7 +287,7 @@ product.html
 
   <!-- Footer -->
   <footer class="bg-dark text-white text-center py-4 mt-5">
-    <p>&copy; 2024 AN PharmaCompany. All rights reserved. By NARRA NANDITHA</p>
+    <p>&copy; 2024 AN PharmaCompany. All rights reserved. By M MANI SRI LATHA</p>
   </footer>
   <body background="bg.jpeg" style="background-repeat: no-repeat; background-size: cover;">
 
@@ -377,7 +377,7 @@ product.html
 
   <!-- Footer -->
   <footer class="bg-dark text-white text-center py-4 mt-2">
-    <p>&copy; 2024 AN PharmaCompany. All rights reserved.BY NARRA NANDITHA</p>
+    <p>&copy; 2024 AN PharmaCompany. All rights reserved.BY M MANI SRI LATHA</p>
   </footer>
 
   <!-- Bootstrap JS -->
