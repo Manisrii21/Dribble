@@ -389,10 +389,11 @@ product.html
 ```
 ## OUTPUT:
 
-![1](https://github.com/user-attachments/assets/dc4d0979-4465-41ce-87cf-55065731249f)
-![2](https://github.com/user-attachments/assets/93fbab11-0c77-4cd6-9d45-48196b8c3f87)
-![3](https://github.com/user-attachments/assets/38993115-1f0b-432c-a76d-5a7a14d4a4ba)
-![Screenshot 2024-11-18 154631](https://github.com/user-attachments/assets/e3dca9ec-340b-4a9a-b414-c97124880666)
+![1](https://github.com/user-attachments/assets/6c026dc9-39bb-4585-ab6e-afa3e4728180)
+![2](https://github.com/user-attachments/assets/6c98f629-0713-438e-a0d0-2f513152340b)
+![3](https://github.com/user-attachments/assets/69f39da1-daa7-42d1-afe1-bacd97cd7710)
+![4](https://github.com/user-attachments/assets/1304a859-ff1f-4570-9a29-b93fb41b1c2c)
+
 
 
 ## RESULT:
